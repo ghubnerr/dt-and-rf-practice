@@ -25,10 +25,12 @@ Data can be downloaded from [here](https://www.lendingclub.com/info/download-dat
 ## Model Performance Evaluation Comparison
 ### Decision Tree Classification Report
 Decision Tree yielded 75% accuracy.
+
 ![Capture](https://github.com/ghubnerr/dt-and-rf-practice/assets/91924667/71a202c5-3ff0-46a9-9814-de31558a8582)
 
 ### Random Forest Classification Report
 100 enumerators yielded accuracy of 84%
+
 ![Capture](https://github.com/ghubnerr/dt-and-rf-practice/assets/91924667/27543c17-7422-49c5-ae35-7590aa95689a)
 
 ### Credit for the Project Ideation
